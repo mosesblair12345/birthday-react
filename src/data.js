@@ -1,8 +1,8 @@
-import girl1 from "./images/girl-1.png";
-import girl2 from "./images/girl-2.png";
-import girl3 from "./images/girl-3.png";
-import men1 from "./images/men1.png";
-import men2 from "./images/men2.png";
+import girl1 from "./images/girl-1.jpg";
+import girl2 from "./images/girl-3.jpg";
+import girl3 from "./images/girl-2.jpg";
+import men1 from "./images/men1.jpg";
+import men2 from "./images/men2.jpg";
 
 export const names= [
   {
